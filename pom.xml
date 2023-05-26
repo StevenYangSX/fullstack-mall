@@ -18,5 +18,6 @@
         <module>fullstackmall-member</module>
         <module>fullstackmall-ware</module>
         <module>fullstackmall-product</module>
+        <module>fullstackmall-common</module>
     </modules>
 </project>
